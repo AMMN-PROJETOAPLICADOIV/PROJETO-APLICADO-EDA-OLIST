@@ -5,4 +5,15 @@ Após uma transação realizada na Olist Store, o vendedor correspondente é pro
 
 Este estudo visa explorar os dados obtidos neste processo, buscando insights valiosos sobre o comportamento do consumidor e o desempenho da empresa no mercado de e-commerce brasileiro.
 
+## OBJETIVO
+
+A proposta de análise exploratória de dados visa compreender os seguintes aspectos:
+
+* Perfil do Cliente: Analisaremos a distribuição geográfica dos clientes, identificando os principais estados e cidades onde estão concentrados. Além disso, exploraremos o comportamento de compra com base nos dados demográficos, como idade, gênero e renda.
+  
+* Análise de Produtos: Investigaremos as categorias de produtos mais populares, identificando tendências sazonais e explorando a relação entre características do produto (como peso, tamanho e descrição) e sua popularidade.
+
+Essa análise exploratória de dados tem o objetivo de fornecer insights valiosos para melhorar a eficiência operacional, aprimorar a experiência do cliente e desenvolver estratégias de marketing mais direcionadas para o comércio eletrônico da Olist.
+
+
 Link do conjunto de dados disponibilizado na plataforma Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
