@@ -9,11 +9,15 @@ Este estudo visa explorar os dados obtidos neste processo, buscando insights val
 
 A proposta de análise exploratória de dados visa compreender os seguintes aspectos:
 
-* Perfil do Cliente: Analisaremos a distribuição geográfica dos clientes, identificando os principais estados e cidades onde estão concentrados. Além disso, exploraremos o comportamento de compra com base nos dados demográficos, como idade, gênero e renda.
-  
-* Análise de Produtos: Investigaremos as categorias de produtos mais populares, identificando tendências sazonais e explorando a relação entre características do produto (como peso, tamanho e descrição) e sua popularidade.
+* Qual é a distribuição geográfica dos clientes por estado?
+* Quais são os principais estados e cidades onde os clientes estão concentrados?
+* Existe alguma relação entre o comprimento ou descrição do produto e sua popularidade de venda?
+* Há alguma relação entre o peso dos produtos e seu custo de frete?
+* O peso dos produtos afeta os custos de envio?
+* Existe algum padrão sazonal nas datas de compra dos pedidos?
+* Qual é o tempo médio de entrega dos pedidos em relação à data estimada de entrega?
+* Qual é a pontuação média de revisão dos pedidos?
+* Qual é o tempo médio entre a compra e a aprovação do pedido?
 
-Essa análise exploratória de dados tem o objetivo de fornecer insights valiosos para melhorar a eficiência operacional, aprimorar a experiência do cliente e desenvolver estratégias de marketing mais direcionadas para o comércio eletrônico da Olist.
 
-
-Link do conjunto de dados disponibilizado na plataforma Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Link do dataset disponibilizado na plataforma Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
